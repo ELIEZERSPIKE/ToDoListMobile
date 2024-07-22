@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="start_icon_size">40.dp</dimen>
+    <dimen name="start_content_width">280.dp</dimen>
+    <dimen name="dp_0">0.dp</dimen>
+    <dimen name="dp_1">1.dp</dimen>
+    <dimen name="dp_2">2.dp</dimen>
+    <dimen name="dp_3">3.dp</dimen>
+    <dimen name="size_1">4.dp</dimen>
+    <dimen name="size_2">8.dp</dimen>
+    <dimen name="size_3">12.dp</dimen>
+    <dimen name="size_4">16.dp</dimen>
+    <dimen name="size_5">20.dp</dimen>
+    <dimen name="size_6">24.dp</dimen>
+    <dimen name="size_7">28.dp</dimen>
+    <dimen name="size_8">32.dp</dimen>
+    <dimen name="size_9">40.dp</dimen>
+    <dimen name="size_10">50.dp</dimen>
+    <dimen name="size_11">60.dp</dimen>
+    <dimen name="size_12">70.dp</dimen>
+    <dimen name="size_13">80.dp</dimen>
+    <dimen name="size_14">90.dp</dimen>
+    <dimen name="size_15">100.dp</dimen>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="White">#FFF</color>
+    <color name="danger">#C62828</color>
+    <color name="background_color">#FFf</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="input_background">#EEE</color>
+    <color name="input_border">#CCC</color>
+    <color name="input_border_focused">#999</color>
+    <color name="input_placeholder">#999</color>
+    <color name="mask_dark">#80000000</color>
+
+</resources>
